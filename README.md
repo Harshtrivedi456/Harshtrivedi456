@@ -40,7 +40,7 @@
 
 <!-- 🌳 About Me — Animated Cyber Grid -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=8000&pause=2500&color=00FFF0&center=true&vCenter=true&width=900&lines=🌐+About+Me+—+Harry's+Digital+Ecosystem;Rooted+in+Security+⚡+Scaling+Through+Cloud+☁️" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=8000&pause=2500&color=00FFF0&center=true&vCenter=true&width=900&lines=🌐+About+Me+—+h4rsh's+Digital+Ecosystem;Rooted+in+Security+⚡+Scaling+Through+Cloud+☁️" />
 </p>
 
 <div align="center">
@@ -148,7 +148,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/harsh-trivedi-5537b3286/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:harshtrivedi561@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Harshtrivedi456"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
