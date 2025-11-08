@@ -96,9 +96,9 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00FFF0&height=3&section=footer&width=1200"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=7000&pause=2500&color=00FFD5&center=true&vCenter=true&width=700&lines=Rooted+in+Security+🌱;Growing+Through+Data+🌐;Scaling+in+the+Cloud+☁️;Innovating+Beyond+Limits+🚀" />
-</p>
+</p> -->
 
 ---
 
