@@ -1,13 +1,13 @@
 <!-- ✨ Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FFF0&size=30&center=true&vCenter=true&width=700&duration=6000&pause=2000&lines=Hey+there+👋+H@rsh+here!;Cyber+Security+%7C+Cloud+Security;Building+Smarter+%26+Safer+Systems;Welcome+to+My+Digital+Lab+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FFF0&size=30&center=true&vCenter=true&width=700&duration=6000&pause=2000&lines=Hey+there+👋+H@rsh+here!;Cyber+Security+%7C+Cloud+Security;Rooted+in+reality+Reaching+for+Better" />
 </h1>
 
 ---
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=4000&pause=2000&color=00FFF0&center=true&vCenter=true&width=900&lines=+Currently+Working+On;Intrusion+Detection+System+Using+Machine+Learning" alt="Currently Working On"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=4000&pause=5000&color=00FFF0&center=true&vCenter=true&width=900&lines=+Currently+Working+On;" alt="Currently Working On"/>
 
 </div>
 
@@ -125,7 +125,7 @@
 ### 🌌 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshrtrivedi456&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Harshrtrivedi456&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"> -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Harshtrivedi456&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%">
 </p>
 <p align="center">
@@ -134,13 +134,13 @@
 
 ---
 
-### 🧩 Fun Zone  
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 </p>
 
-> “Turning ideas into secure, intelligent, and futuristic systems.”
+<h3 align="center"> “Turning ideas into secure, intelligent, and futuristic systems.” </h3>
 
 ---
 
